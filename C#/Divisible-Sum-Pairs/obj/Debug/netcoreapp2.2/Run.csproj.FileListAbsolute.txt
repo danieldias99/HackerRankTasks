@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Projs\Run\bin\Debug\netcoreapp2.2\Run.deps.json
+C:\Users\Asus\Desktop\Projs\Run\bin\Debug\netcoreapp2.2\Run.runtimeconfig.json
+C:\Users\Asus\Desktop\Projs\Run\bin\Debug\netcoreapp2.2\Run.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Projs\Run\bin\Debug\netcoreapp2.2\Run.dll
+C:\Users\Asus\Desktop\Projs\Run\bin\Debug\netcoreapp2.2\Run.pdb
+C:\Users\Asus\Desktop\Projs\Run\obj\Debug\netcoreapp2.2\Run.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Projs\Run\obj\Debug\netcoreapp2.2\Run.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projs\Run\obj\Debug\netcoreapp2.2\Run.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projs\Run\obj\Debug\netcoreapp2.2\Run.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projs\Run\obj\Debug\netcoreapp2.2\Run.dll
+C:\Users\Asus\Desktop\Projs\Run\obj\Debug\netcoreapp2.2\Run.pdb

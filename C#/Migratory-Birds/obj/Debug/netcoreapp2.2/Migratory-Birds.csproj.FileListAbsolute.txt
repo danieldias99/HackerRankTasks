@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Migratory-Birds\bin\Debug\netcoreapp2.2\Migratory-Birds.deps.json
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Migratory-Birds\bin\Debug\netcoreapp2.2\Migratory-Birds.runtimeconfig.json
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Migratory-Birds\bin\Debug\netcoreapp2.2\Migratory-Birds.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Migratory-Birds\bin\Debug\netcoreapp2.2\Migratory-Birds.dll
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Migratory-Birds\bin\Debug\netcoreapp2.2\Migratory-Birds.pdb
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Migratory-Birds\obj\Debug\netcoreapp2.2\Migratory-Birds.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Migratory-Birds\obj\Debug\netcoreapp2.2\Migratory-Birds.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Migratory-Birds\obj\Debug\netcoreapp2.2\Migratory-Birds.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Migratory-Birds\obj\Debug\netcoreapp2.2\Migratory-Birds.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Migratory-Birds\obj\Debug\netcoreapp2.2\Migratory-Birds.dll
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Migratory-Birds\obj\Debug\netcoreapp2.2\Migratory-Birds.pdb

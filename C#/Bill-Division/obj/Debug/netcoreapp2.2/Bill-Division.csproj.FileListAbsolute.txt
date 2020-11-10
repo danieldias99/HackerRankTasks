@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Bill-Division\obj\Debug\netcoreapp2.2\Bill-Division.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Bill-Division\obj\Debug\netcoreapp2.2\Bill-Division.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Bill-Division\obj\Debug\netcoreapp2.2\Bill-Division.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Bill-Division\obj\Debug\netcoreapp2.2\Bill-Division.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Bill-Division\bin\Debug\netcoreapp2.2\Bill-Division.deps.json
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Bill-Division\bin\Debug\netcoreapp2.2\Bill-Division.runtimeconfig.json
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Bill-Division\bin\Debug\netcoreapp2.2\Bill-Division.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Bill-Division\bin\Debug\netcoreapp2.2\Bill-Division.dll
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Bill-Division\bin\Debug\netcoreapp2.2\Bill-Division.pdb
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Bill-Division\obj\Debug\netcoreapp2.2\Bill-Division.dll
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\C#\Bill-Division\obj\Debug\netcoreapp2.2\Bill-Division.pdb

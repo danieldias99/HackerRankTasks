@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\Sorting\Bubble-Sort\bin\Debug\netcoreapp2.2\Bubble-Sort.deps.json
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\Sorting\Bubble-Sort\bin\Debug\netcoreapp2.2\Bubble-Sort.runtimeconfig.json
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\Sorting\Bubble-Sort\bin\Debug\netcoreapp2.2\Bubble-Sort.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\Sorting\Bubble-Sort\bin\Debug\netcoreapp2.2\Bubble-Sort.dll
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\Sorting\Bubble-Sort\bin\Debug\netcoreapp2.2\Bubble-Sort.pdb
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\Sorting\Bubble-Sort\obj\Debug\netcoreapp2.2\Bubble-Sort.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\Sorting\Bubble-Sort\obj\Debug\netcoreapp2.2\Bubble-Sort.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\Sorting\Bubble-Sort\obj\Debug\netcoreapp2.2\Bubble-Sort.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\Sorting\Bubble-Sort\obj\Debug\netcoreapp2.2\Bubble-Sort.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\Sorting\Bubble-Sort\obj\Debug\netcoreapp2.2\Bubble-Sort.dll
+C:\Users\Asus\Desktop\Projs\HackerRankTasks\Sorting\Bubble-Sort\obj\Debug\netcoreapp2.2\Bubble-Sort.pdb
